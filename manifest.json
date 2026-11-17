@@ -6,7 +6,12 @@
       "name": "creature_evolution_2_anim",
       "file": "models/creature_evolution_2_anim.glb",
       "class": "c",
-      "clips": ["swim", "fast", "idle", "turn"],
+      "clips": [
+        "swim",
+        "fast",
+        "idle",
+        "turn"
+      ],
       "title": "Creature Evolution #2",
       "author": "alexalbinyana",
       "authorUrl": "https://sketchfab.com/alexalbinyana",
@@ -18,7 +23,13 @@
       "name": "reaper_leviathan_anim",
       "file": "models/reaper_leviathan_anim.glb",
       "class": "l",
-      "clips": ["swim", "fast", "attack", "roar", "idle"],
+      "clips": [
+        "swim",
+        "fast",
+        "attack",
+        "roar",
+        "idle"
+      ],
       "title": "Reaper Leviathan",
       "author": "patrat623",
       "authorUrl": "https://sketchfab.com/patrat623",
@@ -28,10 +39,44 @@
       "note": "Fan model of a creature from Subnautica (Unknown Worlds Entertainment). The licence covers the modelling work, not the original design."
     },
     {
+      "name": "subnautica_hydra_submarine_anim",
+      "file": "models/subnautica_hydra_submarine_anim.glb",
+      "class": "m",
+      "clips": [
+        "cruise",
+        "idle",
+        "turn"
+      ],
+      "title": "Subnautica: Hydra Submarine",
+      "author": "Aci",
+      "authorUrl": "https://sketchfab.com/Aci_yt",
+      "source": "https://sketchfab.com/3d-models/subnautica-hydra-submarine-a0ede1b5e7034d1aa67a14cef7b797be",
+      "license": "CC-BY-NC-4.0",
+      "changes": "Rigged (propellers, rudders, hatches) and animated in Blender; textures scaled down to 2048 px; materials converted to metallic-roughness.",
+      "note": "Non-commercial use only (CC BY-NC 4.0)."
+    },
+    {
+      "name": "subnautica_hydra_submarine_anim_interior",
+      "file": "models/subnautica_hydra_submarine_anim_interior.glb",
+      "class": "i",
+      "clips": [],
+      "title": "Hydra Submarine: cockpit and command centre",
+      "author": "Aci",
+      "authorUrl": "https://sketchfab.com/Aci_yt",
+      "source": "https://sketchfab.com/3d-models/subnautica-hydra-submarine-a0ede1b5e7034d1aa67a14cef7b797be",
+      "license": "CC-BY-NC-4.0",
+      "changes": "New interior (cockpit, command centre, station markers) modelled in Blender for Abyssal Garden inside the Hydra hull; a derivative of the Hydra, so under the same licence.",
+      "note": "Non-commercial use only (CC BY-NC 4.0). Add it together with the Hydra submarine."
+    },
+    {
       "name": "diver_swim",
       "file": "models/diver_swim.glb",
       "class": "player",
-      "clips": ["idle", "swim", "fast"],
+      "clips": [
+        "idle",
+        "swim",
+        "fast"
+      ],
       "title": "Diver",
       "author": "nolanfa",
       "authorUrl": "https://sketchfab.com/nolanfa",
