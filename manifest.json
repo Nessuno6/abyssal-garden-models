@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "about": "Models for Abyssal Garden (https://github.com/Nessuno6/abyssal-garden). Each model keeps its own licence; see README.md.",
+  "models": [
+    {
+      "name": "creature_evolution_2_anim",
+      "file": "models/creature_evolution_2_anim.glb",
+      "class": "c",
+      "clips": ["swim", "fast", "idle", "turn"],
+      "title": "Creature Evolution #2",
+      "author": "alexalbinyana",
+      "authorUrl": "https://sketchfab.com/alexalbinyana",
+      "source": "https://sketchfab.com/3d-models/creature-evolution-2-4d9437b8758544c9a5d47854b84038e7",
+      "license": "CC-BY-4.0",
+      "changes": "Rigged (18 bones) and animated in Blender; materials converted to metallic-roughness."
+    },
+    {
+      "name": "reaper_leviathan_anim",
+      "file": "models/reaper_leviathan_anim.glb",
+      "class": "l",
+      "clips": ["swim", "fast", "attack", "roar", "idle"],
+      "title": "Reaper Leviathan",
+      "author": "patrat623",
+      "authorUrl": "https://sketchfab.com/patrat623",
+      "source": "https://sketchfab.com/3d-models/reaper-leviathan-dfbe936f6fcb40f79bef4d0de6d83a27",
+      "license": "CC-BY-4.0",
+      "changes": "Re-rigged (33 bones) and animated in Blender; materials converted to metallic-roughness.",
+      "note": "Fan model of a creature from Subnautica (Unknown Worlds Entertainment). The licence covers the modelling work, not the original design."
+    },
+    {
+      "name": "diver_swim",
+      "file": "models/diver_swim.glb",
+      "class": "player",
+      "clips": ["idle", "swim", "fast"],
+      "title": "Diver",
+      "author": "nolanfa",
+      "authorUrl": "https://sketchfab.com/nolanfa",
+      "source": "https://sketchfab.com/3d-models/diver-9ee9b8b722ed457da424869cd8d08b1a",
+      "license": "CC-BY-4.0",
+      "changes": "Posed prone, rigged (20 bones) and animated in Blender. Bundled with the game as the player model."
+    }
+  ]
+}
