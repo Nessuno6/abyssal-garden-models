@@ -83,6 +83,27 @@
       "source": "https://sketchfab.com/3d-models/diver-9ee9b8b722ed457da424869cd8d08b1a",
       "license": "CC-BY-4.0",
       "changes": "Posed prone, rigged (20 bones) and animated in Blender. Bundled with the game as the player model."
+    },
+    {
+      "name": "lantern_leviathan",
+      "file": "models/lantern_leviathan.glb",
+      "class": "l",
+      "clips": [
+        "swim",
+        "fast",
+        "idle",
+        "lure",
+        "flare",
+        "attack",
+        "roar",
+        "turn"
+      ],
+      "title": "Lantern Leviathan",
+      "author": "Nessuno6 (Abyssal Garden)",
+      "authorUrl": "https://github.com/Nessuno6",
+      "source": "https://github.com/Nessuno6/abyssal-garden",
+      "license": "CC-BY-4.0",
+      "changes": "Original model, made in Blender for Abyssal Garden: modelled, textured, rigged (55 bones) and animated. The game's built-in leviathan."
     }
   ]
 }

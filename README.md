@@ -21,6 +21,7 @@ a model, and say that it was changed (rigged, animated, converted).
 | [Reaper Leviathan](https://sketchfab.com/3d-models/reaper-leviathan-dfbe936f6fcb40f79bef4d0de6d83a27) | leviathan | swim, fast, attack, roar, idle | [patrat623](https://sketchfab.com/patrat623) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | [Subnautica: Hydra Submarine](https://sketchfab.com/3d-models/subnautica-hydra-submarine-a0ede1b5e7034d1aa67a14cef7b797be) | submarine | cruise, idle, turn | [Aci](https://sketchfab.com/Aci_yt) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (**non-commercial**) |
 | Hydra Submarine: cockpit and command centre (new, made for Abyssal Garden inside the Hydra) | submarine interior | | derivative of Aci's Hydra | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (**non-commercial**) |
+| Lantern Leviathan (original, made in Blender for Abyssal Garden; the game's built-in leviathan) | leviathan | swim, fast, idle, lure, flare, attack, roar, turn | [Nessuno6](https://github.com/Nessuno6) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | [Diver](https://sketchfab.com/3d-models/diver-9ee9b8b722ed457da424869cd8d08b1a) | player | idle, swim, fast | [nolanfa](https://sketchfab.com/nolanfa) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 **Changes:** every model was rigged and animated in Blender for Abyssal Garden. The materials were converted to plain
@@ -43,7 +44,7 @@ its owner. It is shared here for non-commercial fan use.
 Clip names the game reacts to:
 
 * creatures: `swim`, `fast`, `idle`, `turn`;
-* leviathans: `swim`, `fast`, `attack`, `roar`, `idle`;
+* leviathans: `swim`, `fast`, `attack`, `roar`, `idle` (the built-in one also `lure`, `flare`, `turn`);
 * submarines: `cruise`, `turn`, `idle`.
 
 A submarine interior is named `<submarine name>_interior` and is modelled in the hull's own frame, with marker empties
