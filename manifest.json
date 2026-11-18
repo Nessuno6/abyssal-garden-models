@@ -28,7 +28,8 @@
         "fast",
         "attack",
         "roar",
-        "idle"
+        "idle",
+        "grab"
       ],
       "title": "Reaper Leviathan",
       "author": "patrat623",
@@ -65,7 +66,7 @@
       "authorUrl": "https://sketchfab.com/Aci_yt",
       "source": "https://sketchfab.com/3d-models/subnautica-hydra-submarine-a0ede1b5e7034d1aa67a14cef7b797be",
       "license": "CC-BY-NC-4.0",
-      "changes": "New interior (cockpit, command centre, station markers) modelled in Blender for Abyssal Garden inside the Hydra hull; a derivative of the Hydra, so under the same licence.",
+      "changes": "Interior (cockpit with a panoramic window, command centre, station markers) modelled in Blender for Abyssal Garden inside the Hydra hull, reworked with smooth white panels, hex floor and teal screens; a derivative of the Hydra, so under the same licence.",
       "note": "Non-commercial use only (CC BY-NC 4.0). Add it together with the Hydra submarine."
     },
     {

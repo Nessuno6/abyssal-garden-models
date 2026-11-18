@@ -18,7 +18,7 @@ a model, and say that it was changed (rigged, animated, converted).
 | Model | Class | Clips | Author | Licence |
 |---|---|---|---|---|
 | [Creature Evolution #2](https://sketchfab.com/3d-models/creature-evolution-2-4d9437b8758544c9a5d47854b84038e7) | creature | swim, fast, idle, turn | [alexalbinyana](https://sketchfab.com/alexalbinyana) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| [Reaper Leviathan](https://sketchfab.com/3d-models/reaper-leviathan-dfbe936f6fcb40f79bef4d0de6d83a27) | leviathan | swim, fast, attack, roar, idle | [patrat623](https://sketchfab.com/patrat623) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| [Reaper Leviathan](https://sketchfab.com/3d-models/reaper-leviathan-dfbe936f6fcb40f79bef4d0de6d83a27) | leviathan | swim, fast, attack, roar, idle, grab | [patrat623](https://sketchfab.com/patrat623) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | [Subnautica: Hydra Submarine](https://sketchfab.com/3d-models/subnautica-hydra-submarine-a0ede1b5e7034d1aa67a14cef7b797be) | submarine | cruise, idle, turn | [Aci](https://sketchfab.com/Aci_yt) | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (**non-commercial**) |
 | Hydra Submarine: cockpit and command centre (new, made for Abyssal Garden inside the Hydra) | submarine interior | | derivative of Aci's Hydra | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (**non-commercial**) |
 | Lantern Leviathan (original, made in Blender for Abyssal Garden; the game's built-in leviathan) | leviathan | swim, fast, idle, lure, flare, attack, roar, turn | [Nessuno6](https://github.com/Nessuno6) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
